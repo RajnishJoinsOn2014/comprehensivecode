@@ -1,2 +1,2 @@
 # ComprehensiveCode
-An application provides various technical solutions in various coding platforms
+An application provides various technical solutions in multiple coding platforms
