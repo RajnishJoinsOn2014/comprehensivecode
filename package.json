@@ -1,0 +1,19 @@
+{
+  "name": "comprehensivecode",
+  "version": "1.0.0",
+  "description": "An application provides various technical solutions in multiple coding platforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajnishJoinsOn2014/comprehensivecode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajnishJoinsOn2014/comprehensivecode/issues"
+  },
+  "homepage": "https://github.com/RajnishJoinsOn2014/comprehensivecode#readme"
+}
