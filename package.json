@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/RajnishJoinsOn2014/comprehensivecode/issues"
   },
-  "homepage": "https://github.com/RajnishJoinsOn2014/comprehensivecode#readme"
+  "homepage": "https://github.com/RajnishJoinsOn2014/comprehensivecode#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
